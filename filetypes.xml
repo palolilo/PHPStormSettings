@@ -1,8 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="plant_name_code_new" type="PHP" />
+      <mapping pattern="L" type="PLAIN_TEXT" />
       <mapping pattern="ARSValidator.php" type="PLAIN_TEXT" />
       <mapping pattern="KlavesoveSkratky" type="PLAIN_TEXT" />
       <mapping pattern="git_pokus.php" type="PLAIN_TEXT" />
