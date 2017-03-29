@@ -1,10 +1,10 @@
 <application>
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="WIDESCREEN_SUPPORT" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="851" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="MAX_LOOKUP_WIDTH2" value="896" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
