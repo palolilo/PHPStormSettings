@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="MAX_LOOKUP_WIDTH2" value="673" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
