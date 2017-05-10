@@ -11,10 +11,8 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="ods" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
-      <mapping ext="dot" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="xul" type="XML" />
-      <removed_mapping ext="dot" approved="true" type="com/webschik/doT" />
     </extensionMap>
   </component>
 </application>
