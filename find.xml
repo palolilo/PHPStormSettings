@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\src\ECRBundle\Form\EcrOverviewForm.php [ars_dev_symfony]'" />
-    <option name="defaultScopeName" value="File '...\src\ECRBundle\Form\EcrOverviewForm.php [ars_dev_symfony]'" />
+    <option name="customScope" value="File '...\src\ECRBundle\Form\Overview\EcrOverview.php [ars_dev_symfony]'" />
+    <option name="defaultScopeName" value="File '...\src\ECRBundle\Form\Overview\EcrOverview.php [ars_dev_symfony]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\ECRBundle\Form\EcrOverviewForm.php [ars_dev_symfony]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\ECRBundle\Form\Overview\EcrOverview.php [ars_dev_symfony]'" />
   </component>
 </application>
