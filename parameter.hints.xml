@@ -1,5 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\AppBundle\Task\TaskManager.sendEmail(subject,template,user_name,email_email,priority)" />
+      </blacklist>
+    </blacklists>
     <option id="sql.show.column.names.in.insert.values" value="false" />
   </component>
 </application>
