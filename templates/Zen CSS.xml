@@ -2103,7 +2103,6 @@
   </template>
   <template name="wid" value="widows:$VAR0$;" description="widows:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="wfsm" value="-webkit-font-smoothing:$VAR0$;" description="-webkit-font-smoothing:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;antialiased&quot;" alwaysStopAt="true" />

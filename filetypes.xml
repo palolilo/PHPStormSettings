@@ -2,19 +2,17 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="plant_name_code_new" type="PHP" />
-      <mapping pattern="git_pokus.php" type="PLAIN_TEXT" />
-      <mapping pattern="KlavesoveSkratky" type="PLAIN_TEXT" />
-      <mapping pattern="Browser.php" type="PLAIN_TEXT" />
       <mapping pattern="L" type="PLAIN_TEXT" />
+      <mapping pattern="KlavesoveSkratky" type="PLAIN_TEXT" />
       <mapping pattern="ARSValidator.php" type="PLAIN_TEXT" />
+      <mapping pattern="git_pokus.php" type="PLAIN_TEXT" />
+      <mapping pattern="Browser.php" type="PLAIN_TEXT" />
       <mapping ext="ods" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
